@@ -1,7 +1,6 @@
 // Chinese_Seg.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
 #include "Global.h"
 #include <iostream>
 #include <string>
