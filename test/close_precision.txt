@@ -1,0 +1,3 @@
+seg count : 1167234;answer count : 1134356;common count : 917424
+precision : 0.785981
+recall : 0.808762
